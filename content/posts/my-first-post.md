@@ -16,6 +16,7 @@ My blog post
 
 1. this is a list item
 2. this is another list item
+3. this is a nother change
 
 [my link to](/posts/pcom-homework-1)
 
